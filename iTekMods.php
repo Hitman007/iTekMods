@@ -18,7 +18,7 @@ $output = <<<OUTPUT
 <script>
         jQuery("document").ready(function(){
 		alert('jQuery active');
-		jQuery(".site-info").html('<span style="float:left;">Copyright <a href = "http://jimsbigbrain.com">&copy;</a> Jim\'s Big Brain. All rights reserved. <a href = "http://customrayguns.com/contact/">Contact us.</a> This site is a <a href = "http://customrayguns.com">Custom Ray Gun.<img align = "MIDDLE" src = "http://customrayguns.com/wp-content/uploads/2012/08/ray_gun.gif" /></a>.</span>');
+		jQuery(".site-info").html('<span style="float:left;">Copyright <a href = "http://customrayguns.com">&copy;</a> Custom Ray Guns. All rights reserved. <a href = "http://customrayguns.com/contact/">Contact us.</a> This site is a <a href = "http://customrayguns.com">Custom Ray Gun.<img align = "MIDDLE" src = "http://customrayguns.com/wp-content/uploads/ray_gun.png" /></a>.</span>');
 	});
 </script>
 <style>
