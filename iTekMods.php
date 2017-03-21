@@ -20,7 +20,7 @@ $output = <<<OUTPUT
 <script>
         jQuery("document").ready(function(){
 		jQuery(".site-info").html('<span style="float:left;">Copyright <a href = "http://customrayguns.com/login/">&copy;</a> Custom Ray Guns. All rights reserved. <a href = "http://customrayguns.com/contact/">Contact us.</a> This site is a <a href = "http://customrayguns.com">Custom Ray Gun.<img align = "MIDDLE" src = "http://customrayguns.com/wp-content/uploads/ray_gun.png" /></a>.</span>');
-		jQuery(".brand").html('<img style="height:3em; padding:3px;" src = "$martianURL" /><span>Customer Ray Guns</span>');
+		jQuery(".brand").html('<img style="height:3em; padding:3px;" src = "$martianURL" /><span>Custom Ray Guns</span>');
 	});
 </script>
 <style>
